@@ -15,8 +15,8 @@
  * This header file provides an abstraction of reading and
  * writing to memory via function calls. 
  *
- * @author Alex Fosdick
- * @date April 1 2017
+* @author <MUSTAFA SAYED>
+ * @date  <OCTOBER 13 2023>
  *
  */
 

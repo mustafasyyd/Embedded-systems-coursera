@@ -16,7 +16,7 @@
  * <There are 8 functions to find median,mean,max and min and also to print array and statistics and to sort the array>
  
  * @author <MUSTAFA SAYED>
- * @date <16 JUNE 2021>
+ * @date  <OCTOBER 13 2023>
  *
  */
 
