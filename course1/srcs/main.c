@@ -20,15 +20,11 @@
  * @date April 1 2017
  *
  */
-#include "/home/elsonn/elsonn_coursera/C1M2elsonn/C1M2-MUSTAFA/includes/platform.h"
-#include "/home/elsonn/elsonn_coursera/C1M2elsonn/C1M2-MUSTAFA/includes/memory.h"
 
-#define MAX_LENGTH (10)
-char buffer[MAX_LENGTH];
 
 /* A pretty boring main file */
-int main(void) {
- 
+int main(void) 
+{
  #ifdef COURSE1
   course1();
  #endif
